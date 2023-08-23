@@ -398,5 +398,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Misc folders and files
+.idea/
 ConsoleApp
 
