@@ -1,0 +1,8 @@
+framework module "Services" {
+	header "ref.h"
+    header "Services.objc.h"
+    header "Universe.objc.h"
+    header "Services.h"
+
+    export *
+}
