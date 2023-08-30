@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutterapp/pages/home/homepage.dart';
 import 'package:flutterapp/services/goservices.dart';
 
-class MyHomePageState extends State<MyHomePage> {
+class HomePageState extends State<HomePage> {
   String _greeting = "";
   int? _randomNumber;
 

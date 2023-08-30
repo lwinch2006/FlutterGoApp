@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/pages/home/homepagestate.dart';
 
-class MyHomePage extends StatefulWidget {
+class HomePage extends StatefulWidget {
   final String title;
 
-  const MyHomePage({super.key, required this.title});
+  const HomePage({super.key, required this.title});
 
   @override
-  State<MyHomePage> createState() => MyHomePageState();
+  State<HomePage> createState() => HomePageState();
 }
